@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jack/RD/code/git_push/skiplist/main.cc
+iostream
+-
+skiplist.h
+/home/jack/RD/code/git_push/skiplist/skiplist.h
+
+/home/jack/RD/code/git_push/skiplist/skiplist.cc
+iostream
+-
+cstdlib
+-
+skiplist.h
+/home/jack/RD/code/git_push/skiplist/skiplist.h
+
+/home/jack/RD/code/git_push/skiplist/skiplist.h
+
